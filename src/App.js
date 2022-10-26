@@ -1,11 +1,9 @@
-import './App.css';
+import React from 'react'
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-    hello there i am javascript
-    </div>
-  );
+    <div>App</div>
+  )
 }
 
-export default App;
+// run rfc is better 
